@@ -181,7 +181,7 @@ export default function Index() {
               <div>
                 <Icon name="MapPin" size={32} className="mx-auto mb-4 text-accent" />
                 <h3 className="text-xl font-semibold mb-2">Адрес</h3>
-                <p className="text-gray-300">Калуга, Россия</p>
+                <p className="text-gray-300">Калуга, Советская 172</p>
               </div>
               <div>
                 <Icon name="Phone" size={32} className="mx-auto mb-4 text-accent" />
