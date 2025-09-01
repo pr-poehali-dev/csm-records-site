@@ -90,11 +90,7 @@ export default function Index() {
           <div className="grid lg:grid-cols-2 gap-12 items-center max-w-6xl mx-auto">
             <div>
               <h2 className="text-4xl font-bold text-black mb-8">Студия в Калуге</h2>
-              <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                Наша студия звукозаписи расположена в сердце Калуги и оснащена профессиональным оборудованием 
-                для создания музыки любых жанров. Акустически обработанные помещения, современные микрофоны 
-                и мониторы обеспечивают идеальное качество звука.
-              </p>
+              <p className="text-lg text-gray-600 mb-6 leading-relaxed">Студия находится в городе Калуга, оснащена профессиональным оборудованием для создания музыки любых жанров. Акустически обработанные помещения, современные микрофоны и мониторы обеспечивают идеальное качество звука.</p>
               <div className="space-y-4">
                 <div className="flex items-center gap-3">
                   <div className="w-2 h-2 bg-accent rounded-full"></div>
