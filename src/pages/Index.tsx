@@ -186,7 +186,8 @@ export default function Index() {
               <div>
                 <Icon name="Phone" size={32} className="mx-auto mb-4 text-accent" />
                 <h3 className="text-xl font-semibold mb-2">Телефон</h3>
-                <p className="text-gray-300">+7 (XXX) XXX-XX-XX</p>
+                <p className="text-gray-300">+7-965-700-86-05
++7-901-995-57-34</p>
               </div>
               <div>
                 <Icon name="Mail" size={32} className="mx-auto mb-4 text-accent" />
