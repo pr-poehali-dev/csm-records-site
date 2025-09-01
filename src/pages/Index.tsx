@@ -200,7 +200,7 @@ export default function Index() {
               <Button 
                 variant="outline" 
                 size="lg" 
-                className="border-white text-white"
+                className="border-white text-black bg-white"
                 asChild
               >
                 <a href="https://t.me/csmrecords" target="_blank" rel="noopener noreferrer">
@@ -212,7 +212,7 @@ export default function Index() {
               <Button 
                 variant="outline" 
                 size="lg" 
-                className="border-white text-white"
+                className="border-white text-black bg-white"
                 asChild
               >
                 <a href="https://vk.com/csmrecords" target="_blank" rel="noopener noreferrer">
